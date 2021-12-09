@@ -1,0 +1,11 @@
+#redbox {
+  position: relative;
+  padding:0;
+}
+
+#redbox bluebox {
+  position: absolute;
+  bottom: 10;
+  right: 10;
+}
+ 

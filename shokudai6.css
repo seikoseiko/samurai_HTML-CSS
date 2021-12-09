@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+redbox {
+  position:relative;
+}
+
+
+#redbox bluebox {
+  position: absolute;
+  bottom: 5;
+  right: 5;
+}

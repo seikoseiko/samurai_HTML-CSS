@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+      div.redbox{
+            height:150px;
+            width:200px;
+            background-color: red;
+            border:1px black solid;
+            margin:10px;
+            padding:5px;
+            position:relative;
+        }
+        
+     div.bluebox{
+          height:20px;
+          width:100px;
+          background-color: blue;
+          marigin:10px;
+          padding:5px;
+          position: absolute;
+          bottom: 5px;
+          right: 5px;
+        } 
